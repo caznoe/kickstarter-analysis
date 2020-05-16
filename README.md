@@ -5,3 +5,6 @@ Five plays from Edinburgh were found in the Kickstarter data and analyzed in a s
 The successful and failed United States play Kickstarter campaigns were analyzed to find the mean, median, standard deviation and IQR of the pledges and goals. These are reflected on the 'descriptive stats' sheet. The standard deviations are all roughly twice the IQR, except in failed Kickstarters the standard deviation was higher so there may be some high goals that resulted in failed Kickstarters.
 For future projects, the goal amounts musical Kickstarter campaigns in Great Britain were analyzed. The distribution of the amounts is shown in the attached chart. 
 Based on the analysis, a Kickstarter campaign for a play in the United States with a goal of close to $5,000 and launched in May will most likely be successful. 
+![Outcomes_based_on_launch_date](Outcomes-based-on-launch-date.png)
+![Parent_Category_Outcomes_Chart](Parent-Category-Outcomes-Chart.png)
+![Pledges_Musicals_Great_Britain](Pledges-Musicals-Great-Britain.png)
