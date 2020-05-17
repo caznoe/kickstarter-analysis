@@ -9,7 +9,7 @@ For a possible future project, the goal amounts musical Kickstarter campaigns in
 ### Pledges Musicals in Great Britain Chart
 ![Pledges_Musicals_Great_Britain](Pledges-Musicals-Great-Britain.png)
 
-###Challenge
+### Challenge
 In further analysis of the data, I found that the greatest odds of success for Kickstarter campaigns specific to plays are less than $5,000. There were a higher percentage of successful campaigns above $35,000 but there were relatively few campaigns in that goal range to compare provide recommendations on goals that high. Other factors, such as strong local community support may affect the outcomes of these type of campaigns. In looking at the timing of the campaign, as you can see in the chart, May produced the most amount of successful campaigns in the theatre parent category. In contrast, December had the least amount of successful campaigns. Campaigns not specific to plays are reflected in this chart including potentially building projects for theatres, and they may be affecting the overall results. Overall though, it seems that warmer months in general seemed to have better results than the winter months. Based on the analysis, a Kickstarter campaign for a play in the United States with a goal of close to $5,000 and launched in May will most likely be successful and for a better than 50% rate of success the campaign goal should stay below $20,000.
 ### Outcomes Based on Launch Date for Theatre Campaigns Chart
 ![Outcomes_Based_on_Launch_Date](Outcomes-based-on-launch-date.png)
